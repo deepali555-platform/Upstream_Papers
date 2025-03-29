@@ -1,4 +1,7 @@
 ---
+layout: default
+title: My Publications
+------
 layout: default  # ← Matches your template name
 title: Petroleum Publications
 ---
