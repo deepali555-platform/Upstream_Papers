@@ -1,4 +1,8 @@
 theme: jekyll-feed
+title: "Petroleum Publications"
+description: "Latest papers from SPE, SEG, AAPG and EAGE"
+baseurl: "" # Leave this empty
+
 feeds:
   - name: "SPE Papers"
     url: "https://www.spe.org/en/technical-papers/rss/"
