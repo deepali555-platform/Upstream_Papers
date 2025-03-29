@@ -1,0 +1,7 @@
+title: "Petroleum Publications"
+theme: jekyll-feed
+feeds:
+  - name: "SPE Papers"
+    url: "https://www.spe.org/en/technical-papers/rss/"
+  - name: "SEG Publications"
+    url: "https://library.seg.org/action/showFeed?type=etoc&feed=rss&jc=segam"
