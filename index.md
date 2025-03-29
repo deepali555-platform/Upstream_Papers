@@ -1,4 +1,6 @@
 ---
-layout: default
+layout: default  # ← Matches your template name
 title: Petroleum Publications
 ---
+## Latest Papers
+Updates will appear here automatically!
